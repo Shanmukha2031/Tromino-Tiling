@@ -1,0 +1,19 @@
+# Tromino Tiling in C
+
+## Description
+This project contains a C program that solves the **Tromino Tiling** problem. The program demonstrates fundamental concepts of recursive algorithms and file handling in C.
+
+## Features
+- Written in C language
+- Uses recursion to solve the Tromino Tiling problem
+- Efficient and easy to compile
+
+## Compilation
+To compile the program, use the following command:
+```bash
+gcc tromino.c -o tromino
+
+## How to Run
+After compiling you can run with the command:
+./tromino
+
